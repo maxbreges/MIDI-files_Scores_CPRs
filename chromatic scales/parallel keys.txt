@@ -1,0 +1,35 @@
+C major "C,C♯,D,D♯,E,F,F♯,G,G♯,A,B♭,B" ; "B,B♭,A,A♭,G,F♯,F,E,E♭,D,D♭,C" ;
+A minor "A,B♭,B,C,C♯,D,D♯,E,F,F♯,G,G♯" ; "G♯,G,F♯,F,E,D♯,D,C♯,C,B,B♭,A" ;
+
+B major "B,B♯,C♯,C𝄪,D♯,E,E♯,F♯,F𝄪,G♯,A♮,A♯" ; "A♯,A♮,G♯,G♮,F♯,E♯,E,D♯,D♮,C♯,C♮,B" ;
+G♯ minor "G♯,A♮,A♯,B,B♯,C♯,C𝄪,D♯,E,E♯,F,F♯" ;  "F♯,F,E♯,E,D♯,C𝄪,C♯,B♯,B,A♯,A♮,G♯" ;
+
+B♭ major "B♭,B♮,C,C♯,D,E♭,E♮,F,F♯,G,A♭,A" ; "A,A♭,G,G♭,F,E♮,E♭,D,D♭,C,C♭,B♭" ;
+G minor "G,A♭,A,B♭,B♮,C,C♯,D,E♭,E♮,F,F♯" ; "F♯,F,E♮,E♭,D,C♯,C,B♮,B♭,A,A♭,G" ;
+
+A major "A,A♯,B,B♯,C,D,D♯,E,E♯,F♯,G♮,G♯" ; "G♯,G♮,F♯,F♮,E,D♯,D,C♯,C♮,B,B♭,A" ;
+F♯ minor "F♯,G♮,G♯,A,A♯,B,B♯,C♯,D,D♯,E,E♯" ;  "E♯,E,D♯,D,C♯,B♯,B,A♯,A,G♯,G♮,F♯" ;
+
+A♭ major "A♭,A♮,B♭,B♮,C,D♭,D♮,E♭,E♮,F,G♭,G" ; "G,G♭,F,F♭,E♭,D♮,D♭,C,C♭,B♭,B𝄫,A♭" ;
+F minor "F,G♭,G,A♭,A♮,B♭,B♮,C,D♭,D♮,E♭,E♮" ; "E♮,E♭,D♮,D♭,C,B♮,B♭,A♮,A♭,G,G♭,F" ;
+
+G major "G,G♯,A,A♯,B,C,C♯,D,D♯,E,F♮,F♯" ; "F♯,F♮,E,E♭,D,C♯,C,B,B♭,A,A♭,G" ;
+E minor "E,F♮,F♯,G,G♯,A,A♯,B,C,C♯,D,D♯" ;	 "D♯,D,C♯,C,B,A♯,A,G♯,G,F♯,F♮,E" ;
+
+F♯ major "F♯,F𝄪,G♯,G𝄪,A♯,B,B♯,C♯,C𝄪,D♯,E♮,E♯" ; "E♯,E♮,D♯,D♮,C♯,B♯,B,A♯,A♮,G♯,G♮,F♯" ;
+D♯ minor "D♯,E♮,E♯,F♯,F𝄪,G♯,G𝄪,A♯,B,B♯,C♯,C𝄪" ; "C𝄪,C♯,B♯,B,A♯,G𝄪,G♯,F𝄪,F♯,E♯,E♮,D♯" ;
+
+F major "F,F♯,G,G♯,A,B♭,B♮,C,C♯,D,E♭,E" ; "E,E♭,D,D♭,C,B♮,B♭,A,A♭,G,G♭,F" ;
+D minor "D,E♭,E,F,F♯,G,G♯,A,B♭,B♮,C,C♯" ; "C♯,C,B♮,B♭,A,G♯,G,F♯,F,E,E♭,D" ;
+
+E major "E,E♯,F♯,F𝄪,G♯,A,A♯,B,B♯,C♯,D♮,D♯" ; "D♯,D♮,C♯,C♮,B,A♯,A,G♯,G♮,F♯,F♮,E" ;
+C♯ minor "C♯,D♮,D♯,E,E♯,F♯,F𝄪,G♯,A,A♯,B,B♯" ; "B♯,B,A♯,A,G♯,F𝄪,F♯,E♯,E,D♯,D♮,C♯" ;
+
+E♭ major "E♭,E♮,F,F♯,G,A♭,A♮,B♭,B♮,C,D♭,D" ; "D,D♭,C,C♭,B♭,A♮,A♭,G,G♭,F,F♭,E♭" ;
+C minor "C,D♭,D,E♭,E♮,F,F♯,G,A♭,A♮,B♭,B♮" ; "B♮,B♭,A♮,A♭,G,F♯,F,E♮,E♭,D,D♭,C" ;
+
+D major "D,D♯,E,E♯,F♯,G,G♯,A,A♯,B,C♮,C♯" ; "C♯,C♮,B,B♭,A,G♯,G,F♯,F♮,E,E♭,D" ;
+B minor "B,C♮,C♯,D,D♯,E,E♯,F♯,G,G♯,A,A♯" ; "A♯,A,G♯,G,F♯,E♯,E,D♯,D,C♯,C♮,B" ;
+
+C♯ major "C♯,C𝄪,D♯,D𝄪,E♯,F♯,F𝄪,G♯,G𝄪,A♯,B♮,B♯" ; "B♯,B♮,A♯,A♮,G♯,F𝄪,F♯,E♯,E♮,D♯,D♮,C♯" ;
+A♯ minor "A♯,B♮,B♯,C♯,C𝄪,D♯,D𝄪,E♯,F♯,F𝄪,G♯,G𝄪" ; "G𝄪,G♯,F𝄪,F♯,E♯,D𝄪,D♯,C𝄪,C♯,B♯,B♮,A♯" ;
