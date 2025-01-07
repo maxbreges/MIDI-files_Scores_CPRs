@@ -1,0 +1,42 @@
+♭ ♯ ♮ 𝄪 𝄫 
+
+major "1,1+,2,2+,3,4,4+,5,5+,6,7-,7" ; 	"7,7-,6,6-,5,4+,4,3,3-,2,2-,1" ;
+minor "1,2-,2,3,3+,4,4+,5,6,6+,7,7+" ;	"7+,7,6+,6,5,4+,4,3+,3,2,2-,1" ;
+
+		ascending 			descending
+
+C major "C,C♯,D,D♯,E,F,F♯,G,G♯,A,B♭,B" ; "B,B♭,A,A♭,G,F♯,F,E,E♭,D,D♭,C" ;
+C minor "C,D♭,D,E♭,E♮,F,F♯,G,A♭,A♮,B♭,B♮" ; "B♮,B♭,A♮,A♭,G,F♯,F,E♮,E♭,D,D♭,C" ;
+
+C♯ major "C♯,C𝄪,D♯,D𝄪,E♯,F♯,F𝄪,G♯,G𝄪,A♯,B♮,B♯" ; "B♯,B♮,A♯,A♮,G♯,F𝄪,F♯,E♯,E♮,D♯,D♮,C♯" ;
+C♯ minor "C♯,D♮,D♯,E,E♯,F♯,F𝄪,G♯,A,A♯,B,B♯" ; "B♯,B,A♯,A,G♯,F𝄪,F♯,E♯,E,D♯,D♮,C♯" ;
+
+D major "D,D♯,E,E♯,F♯,G,G♯,A,A♯,B,C♮,C♯" ; "C♯,C♮,B,B♭,A,G♯,G,F♯,F♮,E,E♭,D" ;
+D minor "D,E♭,E,F,F♯,G,G♯,A,B♭,B♮,C,C♯" ; "C♯,C,B♮,B♭,A,G♯,G,F♯,F,E,E♭,D" ;
+
+E♭ major "E♭,E♮,F,F♯,G,A♭,A♮,B♭,B♮,C,D♭,D" ; "D,D♭,C,C♭,B♭,A♮,A♭,G,G♭,F,F♭,E♭" ;
+E♭ minor "E♭,F♭,F,G♭,G♮,A♭,A♮,B♭,C♭,C♮,D♭,D♮" ; "D♮,D♭,C♮,C♭,B♭,A♮,A♭,G♮,G♭,F,F♭,E♭" ;
+
+E major "E,E♯,F♯,F𝄪,G♯,A,A♯,B,B♯,C♯,D♮,D♯" ; "D♯,D♮,C♯,C♮,B,A♯,A,G♯,G♮,F♯,F♮,E" ;
+E minor "E,F♮,F♯,G,G♯,A,A♯,B,C,C♯,D,D♯" ;	 "D♯,D,C♯,C,B,A♯,A,G♯,G,F♯,F♮,E" ;
+
+F major "F,F♯,G,G♯,A,B♭,B♮,C,C♯,D,E♭,E" ; "E,E♭,D,D♭,C,B♮,B♭,A,A♭,G,G♭,F" ;
+F minor "F,G♭,G,A♭,A♮,B♭,B♮,C,D♭,D♮,E♭,E♮" ; "E♮,E♭,D♮,D♭,C,B♮,B♭,A♮,A♭,G,G♭,F" ;
+
+F♯ major "F♯,F𝄪,G♯,G𝄪,A♯,B,B♯,C♯,C𝄪,D♯,E♮,E♯" ; "E♯,E♮,D♯,D♮,C♯,B♯,B,A♯,A♮,G♯,G♮,F♯" ;
+F♯ minor "F♯,G♮,G♯,A,A♯,B,B♯,C♯,D,D♯,E,E♯" ;  "E♯,E,D♯,D,C♯,B♯,B,A♯,A,G♯,G♮,F♯" ;
+
+G major "G,G♯,A,A♯,B,C,C♯,D,D♯,E,F♮,F♯" ; "F♯,F♮,E,E♭,D,C♯,C,B,B♭,A,A♭,G" ;
+G minor "G,A♭,A,B♭,B♮,C,C♯,D,E♭,E♮,F,F♯" ; "F♯,F,E♮,E♭,D,C♯,C,B♮,B♭,A,A♭,G" ;
+
+A♭ major "A♭,A♮,B♭,B♮,C,D♭,D♮,E♭,E♮,F,G♭,G" ; "G,G♭,F,F♭,E♭,D♮,D♭,C,C♭,B♭,B𝄫,A♭" ;
+G♯ minor "G♯,A♮,A♯,B,B♯,C♯,C𝄪,D♯,E,E♯,F,F♯" ;  "F♯,F,E♯,E,D♯,C𝄪,C♯,B♯,B,A♯,A♮,G" ;
+
+A major "A,A♯,B,B♯,C,D,D♯,E,E♯,F♯,G♮,G♯" ; "G♯,G♮,F♯,F♮,E,D♯,D,C♯,C♮,B,B♭,A" ;
+A minor "A,B♭,B,C,C♯,D,D♯,E,F,F♯,G,G♯" ; "G♯,G,F♯,F,E,D♯,D,C♯,C,B,B♭,A" ;
+
+B♭ major "B♭,B♮,C,C♯,D,E♭,E♮,F,F♯,G,A♭,A" ; "A,A♭,G,G♭,F,E♮,E♭,D,D♭,C,C♭,B♭" ;
+B♭ minor "B♭,C♭,C,D♭,D♮,E♭,E♮,F,G♭,G♮,A♭,A♮" ; "A♮,A♭,G♮,G♭,F,E♮,E♭,D♮,D♭,C,C♭,B♭" ;
+
+B major "B,B♯,C♯,C𝄪,D♯,E,E♯,F♯,F𝄪,G♯,A♮,A♯" ; "A♯,A♮,G♯,G♮,F♯,E♯,E,D♯,D♮,C♯,C♮,B" ;
+B minor "B,C♮,C♯,D,D♯,E,E♯,F♯,G,G♯,A,A♯" ; "A♯,A,G♯,G,F♯,E♯,E,D♯,D,C♯,C♮,B" ;
