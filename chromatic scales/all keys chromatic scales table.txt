@@ -30,7 +30,7 @@ G major "G,G♯,A,A♯,B,C,C♯,D,D♯,E,F♮,F♯" ; "F♯,F♮,E,E♭,D,C♯,C
 G minor "G,A♭,A,B♭,B♮,C,C♯,D,E♭,E♮,F,F♯" ; "F♯,F,E♮,E♭,D,C♯,C,B♮,B♭,A,A♭,G" ;
 
 A♭ major "A♭,A♮,B♭,B♮,C,D♭,D♮,E♭,E♮,F,G♭,G" ; "G,G♭,F,F♭,E♭,D♮,D♭,C,C♭,B♭,B𝄫,A♭" ;
-G♯ minor "G♯,A♮,A♯,B,B♯,C♯,C𝄪,D♯,E,E♯,F,F♯" ;  "F♯,F,E♯,E,D♯,C𝄪,C♯,B♯,B,A♯,A♮,G♯" ;
+G♯ minor "G♯,A♮,A♯,B,B♯,C♯,C𝄪,D♯,E,E♯,F♯,F𝄪" ;  "F𝄪,F♯,E♯,E,D♯,C𝄪,C♯,B♯,B,A♯,A♮,G♯" ;
 
 A major "A,A♯,B,B♯,C♯,D,D♯,E,E♯,F♯,G♮,G♯" ; "G♯,G♮,F♯,F♮,E,D♯,D,C♯,C♮,B,B♭,A" ;
 A minor "A,B♭,B,C,C♯,D,D♯,E,F,F♯,G,G♯" ; "G♯,G,F♯,F,E,D♯,D,C♯,C,B,B♭,A" ;
