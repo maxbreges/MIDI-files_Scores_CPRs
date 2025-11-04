@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScoreLayout>
+   <member name="Voice 1">
+      <string name="Name (long)" value="" wide="true"/>
+      <string name="Name (short)" value="" wide="true"/>
+      <member name="Polyphonic">
+         <int name="Channel 1" value="0"/>
+         <int name="Attributes Chan 1" value="-78"/>
+         <int name="Channel 2" value="1"/>
+         <int name="Attributes Chan 2" value="36"/>
+         <int name="Channel 3" value="-1"/>
+         <int name="Attributes Chan 3" value="0"/>
+         <int name="Channel 4" value="-1"/>
+         <int name="Attributes Chan 4" value="0"/>
+         <int name="Channel 5" value="-1"/>
+         <int name="Attributes Chan 5" value="-78"/>
+         <int name="Channel 6" value="-1"/>
+         <int name="Attributes Chan 6" value="36"/>
+         <int name="Channel 7" value="-1"/>
+         <int name="Attributes Chan 7" value="0"/>
+         <int name="Channel 8" value="-1"/>
+         <int name="Attributes Chan 8" value="0"/>
+         <int name="On" value="1"/>
+         <int name="Optimize" value="0"/>
+         <int name="Splitnote" value="0"/>
+      </member>
+      <member name="KeyClef">
+         <int name="Upper Key" value="0"/>
+         <int name="Lower Key" value="0"/>
+         <int name="Upper Clef" value="0"/>
+         <int name="Lower Clef" value="1"/>
+         <int name="Flags" value="0"/>
+      </member>
+      <member name="Quantize">
+         <int name="PPQ" value="480"/>
+         <int name="Notes" value="120"/>
+         <int name="Rests" value="480"/>
+         <int name="Flags" value="87055"/>
+      </member>
+      <member name="Drum">
+         <int name="Single Lower Pitch" value="60"/>
+         <int name="Single Upper Pitch" value="72"/>
+         <int name="Flags" value="4"/>
+         <int name="Fixed Up" value="-12"/>
+         <int name="Fixed Down" value="42"/>
+      </member>
+      <member name="Instrument">
+         <int name="Instrument" value="0"/>
+         <int name="Transpose" value="0"/>
+         <int name="Flags" value="0"/>
+         <bin name="Strings">
+				403B37322D28000000000000
+         </bin>
+      </member>
+      <member name="Sizes">
+         <int name="System" value="100"/>
+         <int name="Num Lines" value="5"/>
+         <int name="Linespace" value="3"/>
+      </member>
+      <member name="Limits">
+         <int name="lowLimit" value="0"/>
+         <int name="highLimit" value="127"/>
+      </member>
+      <member name="Capo">
+         <int name="capo" value="0"/>
+      </member>
+   </member>
+   <member name="Voice 2">
+      <string name="Name (long)" value="" wide="true"/>
+      <string name="Name (short)" value="" wide="true"/>
+      <member name="Polyphonic">
+         <int name="Channel 1" value="-1"/>
+         <int name="Attributes Chan 1" value="-78"/>
+         <int name="Channel 2" value="-1"/>
+         <int name="Attributes Chan 2" value="36"/>
+         <int name="Channel 3" value="-1"/>
+         <int name="Attributes Chan 3" value="0"/>
+         <int name="Channel 4" value="-1"/>
+         <int name="Attributes Chan 4" value="0"/>
+         <int name="Channel 5" value="2"/>
+         <int name="Attributes Chan 5" value="-78"/>
+         <int name="Channel 6" value="3"/>
+         <int name="Attributes Chan 6" value="36"/>
+         <int name="Channel 7" value="-1"/>
+         <int name="Attributes Chan 7" value="0"/>
+         <int name="Channel 8" value="-1"/>
+         <int name="Attributes Chan 8" value="0"/>
+         <int name="On" value="1"/>
+         <int name="Optimize" value="0"/>
+         <int name="Splitnote" value="0"/>
+      </member>
+      <member name="KeyClef">
+         <int name="Upper Key" value="0"/>
+         <int name="Lower Key" value="0"/>
+         <int name="Upper Clef" value="1"/>
+         <int name="Lower Clef" value="1"/>
+         <int name="Flags" value="0"/>
+      </member>
+      <member name="Quantize">
+         <int name="PPQ" value="480"/>
+         <int name="Notes" value="120"/>
+         <int name="Rests" value="480"/>
+         <int name="Flags" value="87055"/>
+      </member>
+      <member name="Drum">
+         <int name="Single Lower Pitch" value="60"/>
+         <int name="Single Upper Pitch" value="72"/>
+         <int name="Flags" value="4"/>
+         <int name="Fixed Up" value="-12"/>
+         <int name="Fixed Down" value="42"/>
+      </member>
+      <member name="Instrument">
+         <int name="Instrument" value="0"/>
+         <int name="Transpose" value="0"/>
+         <int name="Flags" value="0"/>
+         <bin name="Strings">
+				403B37322D28000000000000
+         </bin>
+      </member>
+      <member name="Sizes">
+         <int name="System" value="100"/>
+         <int name="Num Lines" value="5"/>
+         <int name="Linespace" value="3"/>
+      </member>
+      <member name="Limits">
+         <int name="lowLimit" value="0"/>
+         <int name="highLimit" value="127"/>
+      </member>
+      <member name="Capo">
+         <int name="capo" value="0"/>
+      </member>
+   </member>
+   <member name="Voice 3">
+      <string name="Name (long)" value="" wide="true"/>
+      <string name="Name (short)" value="" wide="true"/>
+      <member name="Polyphonic">
+         <int name="Channel 1" value="0"/>
+         <int name="Attributes Chan 1" value="-78"/>
+         <int name="Channel 2" value="1"/>
+         <int name="Attributes Chan 2" value="36"/>
+         <int name="Channel 3" value="-1"/>
+         <int name="Attributes Chan 3" value="0"/>
+         <int name="Channel 4" value="-1"/>
+         <int name="Attributes Chan 4" value="0"/>
+         <int name="Channel 5" value="2"/>
+         <int name="Attributes Chan 5" value="-78"/>
+         <int name="Channel 6" value="3"/>
+         <int name="Attributes Chan 6" value="36"/>
+         <int name="Channel 7" value="-1"/>
+         <int name="Attributes Chan 7" value="0"/>
+         <int name="Channel 8" value="-1"/>
+         <int name="Attributes Chan 8" value="0"/>
+         <int name="On" value="0"/>
+         <int name="Optimize" value="0"/>
+         <int name="Splitnote" value="0"/>
+      </member>
+      <member name="KeyClef">
+         <int name="Upper Key" value="0"/>
+         <int name="Lower Key" value="0"/>
+         <int name="Upper Clef" value="1"/>
+         <int name="Lower Clef" value="1"/>
+         <int name="Flags" value="0"/>
+      </member>
+      <member name="Quantize">
+         <int name="PPQ" value="480"/>
+         <int name="Notes" value="120"/>
+         <int name="Rests" value="480"/>
+         <int name="Flags" value="81935"/>
+      </member>
+      <member name="Drum">
+         <int name="Single Lower Pitch" value="60"/>
+         <int name="Single Upper Pitch" value="72"/>
+         <int name="Flags" value="4"/>
+         <int name="Fixed Up" value="-12"/>
+         <int name="Fixed Down" value="42"/>
+      </member>
+      <member name="Instrument">
+         <int name="Instrument" value="0"/>
+         <int name="Transpose" value="0"/>
+         <int name="Flags" value="0"/>
+         <bin name="Strings">
+				403B37322D28000000000000
+         </bin>
+      </member>
+      <member name="Sizes">
+         <int name="System" value="100"/>
+         <int name="Num Lines" value="5"/>
+         <int name="Linespace" value="3"/>
+      </member>
+      <member name="Limits">
+         <int name="lowLimit" value="0"/>
+         <int name="highLimit" value="127"/>
+      </member>
+      <member name="Capo">
+         <int name="capo" value="0"/>
+      </member>
+   </member>
+   <member name="Name">
+      <string name="s" value="full" wide="true"/>
+   </member>
+   <member name="Bracemask">
+      <int name="Mask 0" value="0"/>
+      <int name="Mask 1" value="0"/>
+      <int name="Mask 2" value="0"/>
+      <int name="Mask 3" value="0"/>
+   </member>
+   <member name="Beziermask">
+      <int name="Mask 0" value="0"/>
+      <int name="Mask 1" value="0"/>
+      <int name="Mask 2" value="0"/>
+      <int name="Mask 3" value="0"/>
+   </member>
+   <member name="Insertmask">
+      <int name="Mask 0" value="-1"/>
+      <int name="Mask 1" value="-1"/>
+      <int name="Mask 2" value="-1"/>
+      <int name="Mask 3" value="-1"/>
+   </member>
+   <member name="Sysnamemask">
+      <int name="Mask 0" value="-1"/>
+      <int name="Mask 1" value="-1"/>
+      <int name="Mask 2" value="-1"/>
+      <int name="Mask 3" value="-1"/>
+   </member>
+   <member name="Timesignmask">
+      <int name="Mask 0" value="0"/>
+      <int name="Mask 1" value="0"/>
+      <int name="Mask 2" value="0"/>
+      <int name="Mask 3" value="0"/>
+   </member>
+   <member name="Transposemask">
+      <int name="Mask 0" value="-1"/>
+      <int name="Mask 1" value="-1"/>
+      <int name="Mask 2" value="-1"/>
+      <int name="Mask 3" value="-1"/>
+   </member>
+   <int name="BraceShift" value="0"/>
+   <int name="BezierShift" value="-80"/>
+   <int name="SapceVar" value="0"/>
+   <int name="NameVar" value="1"/>
+   <int name="MultiRests" value="0"/>
+   <int name="Page Size" value="100"/>
+   <int name="Flags" value="16"/>
+   <obj class="LayoutMarkerTree" name="Print" ID="341474328">
+      <float name="PaperW" value="10816"/>
+      <obj class="CmIDLinkedList" name="XList" ID="328389472">
+         <int name="ownership" value="1"/>
+         <list name="obj" type="obj">
+            <obj class="Xmarker" ID="341477072">
+               <int name="Position" value="0"/>
+               <int name="Tix" value="720"/>
+               <int name="Bar Nr" value="0"/>
+               <float name="X-Pos" value="0"/>
+               <float name="Bar width" value="2704"/>
+               <int name="Flags" value="0"/>
+            </obj>
+            <obj class="Xmarker" ID="341476680">
+               <int name="Position" value="720"/>
+               <int name="Tix" value="720"/>
+               <int name="Bar Nr" value="1"/>
+               <float name="X-Pos" value="2704"/>
+               <float name="Bar width" value="2704"/>
+               <int name="Flags" value="0"/>
+            </obj>
+            <obj class="Xmarker" ID="341475560">
+               <int name="Position" value="1440"/>
+               <int name="Tix" value="720"/>
+               <int name="Bar Nr" value="2"/>
+               <float name="X-Pos" value="5408"/>
+               <float name="Bar width" value="2704"/>
+               <int name="Flags" value="0"/>
+            </obj>
+            <obj class="Xmarker" ID="341477016">
+               <int name="Position" value="2160"/>
+               <int name="Tix" value="720"/>
+               <int name="Bar Nr" value="3"/>
+               <float name="X-Pos" value="8112"/>
+               <float name="Bar width" value="2704"/>
+               <int name="Flags" value="0"/>
+            </obj>
+            <obj class="Xmarker" ID="341476456">
+               <int name="Position" value="2880"/>
+               <int name="Tix" value="720"/>
+               <int name="Bar Nr" value="4"/>
+               <float name="X-Pos" value="0"/>
+               <float name="Bar width" value="2704"/>
+               <int name="Flags" value="0"/>
+            </obj>
+            <obj class="Xmarker" ID="341475896">
+               <int name="Position" value="3600"/>
+               <int name="Tix" value="720"/>
+               <int name="Bar Nr" value="5"/>
+               <float name="X-Pos" value="2704"/>
+               <float name="Bar width" value="2704"/>
+               <int name="Flags" value="0"/>
+            </obj>
+            <obj class="Xmarker" ID="341477296">
+               <int name="Position" value="4320"/>
+               <int name="Tix" value="720"/>
+               <int name="Bar Nr" value="6"/>
+               <float name="X-Pos" value="5408"/>
+               <float name="Bar width" value="2704"/>
+               <int name="Flags" value="0"/>
+            </obj>
+            <obj class="Xmarker" ID="341476736">
+               <int name="Position" value="5040"/>
+               <int name="Tix" value="720"/>
+               <int name="Bar Nr" value="7"/>
+               <float name="X-Pos" value="8112"/>
+               <float name="Bar width" value="2704"/>
+               <int name="Flags" value="0"/>
+            </obj>
+            <obj class="Xmarker" ID="341476792">
+               <int name="Position" value="5760"/>
+               <int name="Tix" value="720"/>
+               <int name="Bar Nr" value="8"/>
+               <float name="X-Pos" value="0"/>
+               <float name="Bar width" value="2704"/>
+               <int name="Flags" value="0"/>
+            </obj>
+            <obj class="Xmarker" ID="341475952">
+               <int name="Position" value="6480"/>
+               <int name="Tix" value="720"/>
+               <int name="Bar Nr" value="9"/>
+               <float name="X-Pos" value="2704"/>
+               <float name="Bar width" value="2704"/>
+               <int name="Flags" value="0"/>
+            </obj>
+            <obj class="Xmarker" ID="341476400">
+               <int name="Position" value="7200"/>
+               <int name="Tix" value="720"/>
+               <int name="Bar Nr" value="10"/>
+               <float name="X-Pos" value="5408"/>
+               <float name="Bar width" value="2704"/>
+               <int name="Flags" value="0"/>
+            </obj>
+            <obj class="Xmarker" ID="341476512">
+               <int name="Position" value="7920"/>
+               <int name="Tix" value="720"/>
+               <int name="Bar Nr" value="11"/>
+               <float name="X-Pos" value="8112"/>
+               <float name="Bar width" value="2704"/>
+               <int name="Flags" value="0"/>
+            </obj>
+            <obj class="Xmarker" ID="341475616">
+               <int name="Position" value="8640"/>
+               <int name="Tix" value="720"/>
+               <int name="Bar Nr" value="12"/>
+               <float name="X-Pos" value="0"/>
+               <float name="Bar width" value="2704"/>
+               <int name="Flags" value="0"/>
+            </obj>
+            <obj class="Xmarker" ID="341476848">
+               <int name="Position" value="9360"/>
+               <int name="Tix" value="720"/>
+               <int name="Bar Nr" value="13"/>
+               <float name="X-Pos" value="2704"/>
+               <float name="Bar width" value="2704"/>
+               <int name="Flags" value="0"/>
+            </obj>
+            <obj class="Xmarker" ID="341476008">
+               <int name="Position" value="10080"/>
+               <int name="Tix" value="720"/>
+               <int name="Bar Nr" value="14"/>
+               <float name="X-Pos" value="5408"/>
+               <float name="Bar width" value="2704"/>
+               <int name="Flags" value="0"/>
+            </obj>
+            <obj class="Xmarker" ID="341475672">
+               <int name="Position" value="10800"/>
+               <int name="Tix" value="720"/>
+               <int name="Bar Nr" value="15"/>
+               <float name="X-Pos" value="8112"/>
+               <float name="Bar width" value="2704"/>
+               <int name="Flags" value="0"/>
+            </obj>
+            <obj class="Xmarker" ID="341476568">
+               <int name="Position" value="11520"/>
+               <int name="Tix" value="720"/>
+               <int name="Bar Nr" value="16"/>
+               <float name="X-Pos" value="0"/>
+               <float name="Bar width" value="2704"/>
+               <int name="Flags" value="0"/>
+            </obj>
+            <obj class="Xmarker" ID="341476904">
+               <int name="Position" value="12240"/>
+               <int name="Tix" value="720"/>
+               <int name="Bar Nr" value="17"/>
+               <float name="X-Pos" value="2704"/>
+               <float name="Bar width" value="2704"/>
+               <int name="Flags" value="0"/>
+            </obj>
+            <obj class="Xmarker" ID="341476624">
+               <int name="Position" value="12960"/>
+               <int name="Tix" value="720"/>
+               <int name="Bar Nr" value="18"/>
+               <float name="X-Pos" value="5408"/>
+               <float name="Bar width" value="2704"/>
+               <int name="Flags" value="0"/>
+            </obj>
+            <obj class="Xmarker" ID="341477240">
+               <int name="Position" value="13680"/>
+               <int name="Tix" value="720"/>
+               <int name="Bar Nr" value="19"/>
+               <float name="X-Pos" value="8112"/>
+               <float name="Bar width" value="2704"/>
+               <int name="Flags" value="0"/>
+            </obj>
+            <obj class="Xmarker" ID="341476960">
+               <int name="Position" value="14400"/>
+               <int name="Tix" value="720"/>
+               <int name="Bar Nr" value="20"/>
+               <float name="X-Pos" value="0"/>
+               <float name="Bar width" value="2704"/>
+               <int name="Flags" value="0"/>
+            </obj>
+            <obj class="Xmarker" ID="341475728">
+               <int name="Position" value="15120"/>
+               <int name="Tix" value="720"/>
+               <int name="Bar Nr" value="21"/>
+               <float name="X-Pos" value="2704"/>
+               <float name="Bar width" value="2704"/>
+               <int name="Flags" value="0"/>
+            </obj>
+            <obj class="Xmarker" ID="341477128">
+               <int name="Position" value="15840"/>
+               <int name="Tix" value="720"/>
+               <int name="Bar Nr" value="22"/>
+               <float name="X-Pos" value="5408"/>
+               <float name="Bar width" value="2704"/>
+               <int name="Flags" value="0"/>
+            </obj>
+            <obj class="Xmarker" ID="341476064">
+               <int name="Position" value="16560"/>
+               <int name="Tix" value="720"/>
+               <int name="Bar Nr" value="23"/>
+               <float name="X-Pos" value="8112"/>
+               <float name="Bar width" value="2704"/>
+               <int name="Flags" value="0"/>
+            </obj>
+            <obj class="Xmarker" ID="341475784">
+               <int name="Position" value="17280"/>
+               <int name="Tix" value="720"/>
+               <int name="Bar Nr" value="24"/>
+               <float name="X-Pos" value="0"/>
+               <float name="Bar width" value="2704"/>
+               <int name="Flags" value="0"/>
+            </obj>
+            <obj class="Xmarker" ID="341476232">
+               <int name="Position" value="18000"/>
+               <int name="Tix" value="720"/>
+               <int name="Bar Nr" value="25"/>
+               <float name="X-Pos" value="2704"/>
+               <float name="Bar width" value="2704"/>
+               <int name="Flags" value="0"/>
+            </obj>
+            <obj class="Xmarker" ID="341475840">
+               <int name="Position" value="18720"/>
+               <int name="Tix" value="720"/>
+               <int name="Bar Nr" value="26"/>
+               <float name="X-Pos" value="5408"/>
+               <float name="Bar width" value="2704"/>
+               <int name="Flags" value="0"/>
+            </obj>
+            <obj class="Xmarker" ID="341476120">
+               <int name="Position" value="19440"/>
+               <int name="Tix" value="720"/>
+               <int name="Bar Nr" value="27"/>
+               <float name="X-Pos" value="8112"/>
+               <float name="Bar width" value="2704"/>
+               <int name="Flags" value="0"/>
+            </obj>
+            <obj class="Xmarker" ID="341476176">
+               <int name="Position" value="20160"/>
+               <int name="Tix" value="720"/>
+               <int name="Bar Nr" value="28"/>
+               <float name="X-Pos" value="0"/>
+               <float name="Bar width" value="2704"/>
+               <int name="Flags" value="0"/>
+            </obj>
+            <obj class="Xmarker" ID="341476288">
+               <int name="Position" value="20880"/>
+               <int name="Tix" value="720"/>
+               <int name="Bar Nr" value="29"/>
+               <float name="X-Pos" value="2704"/>
+               <float name="Bar width" value="2704"/>
+               <int name="Flags" value="0"/>
+            </obj>
+            <obj class="Xmarker" ID="341479032">
+               <int name="Position" value="21600"/>
+               <int name="Tix" value="720"/>
+               <int name="Bar Nr" value="30"/>
+               <float name="X-Pos" value="5408"/>
+               <float name="Bar width" value="2704"/>
+               <int name="Flags" value="0"/>
+            </obj>
+            <obj class="Xmarker" ID="341477968">
+               <int name="Position" value="22320"/>
+               <int name="Tix" value="720"/>
+               <int name="Bar Nr" value="31"/>
+               <float name="X-Pos" value="8112"/>
+               <float name="Bar width" value="2704"/>
+               <int name="Flags" value="0"/>
+            </obj>
+            <obj class="Xmarker" ID="326951448">
+               <int name="Position" value="23040"/>
+               <int name="Tix" value="720"/>
+               <int name="Bar Nr" value="32"/>
+               <float name="X-Pos" value="0"/>
+               <float name="Bar width" value="10816"/>
+               <int name="Flags" value="0"/>
+            </obj>
+         </list>
+      </obj>
+      <member name="GrandStaff">
+         <int name="ownership" value="1"/>
+         <list name="obj" type="obj">
+            <obj class="GrandStaff" ID="340330648">
+               <int name="Position" value="0"/>
+               <int name="Tix" value="2880"/>
+               <float name="Y-Pos" value="65"/>
+               <float name="X-Off" value="0"/>
+               <int name="Flags" value="1"/>
+               <int name="Bars" value="4"/>
+               <int name="ownership" value="1"/>
+               <list name="obj" type="obj">
+                  <obj class="Ymarker" ID="329916672">
+                     <float name="Y-Pos" value="65"/>
+                     <int name="Flags" value="0"/>
+                  </obj>
+                  <obj class="Ymarker" ID="329916712">
+                     <float name="Y-Pos" value="65"/>
+                     <int name="Flags" value="0"/>
+                  </obj>
+                  <obj class="Ymarker" ID="329916752">
+                     <float name="Y-Pos" value="65"/>
+                     <int name="Flags" value="0"/>
+                  </obj>
+               </list>
+               <obj name="Xmarker" ID="341477072"/>
+               <obj name="Last XMarker" ID="341477016"/>
+            </obj>
+            <obj class="GrandStaff" ID="340333048">
+               <int name="Position" value="2880"/>
+               <int name="Tix" value="2880"/>
+               <float name="Y-Pos" value="0"/>
+               <float name="X-Off" value="0"/>
+               <int name="Flags" value="0"/>
+               <int name="Bars" value="4"/>
+               <int name="ownership" value="1"/>
+               <list name="obj" type="obj">
+                  <obj class="Ymarker" ID="329939432">
+                     <float name="Y-Pos" value="65"/>
+                     <int name="Flags" value="0"/>
+                  </obj>
+                  <obj class="Ymarker" ID="329938192">
+                     <float name="Y-Pos" value="65"/>
+                     <int name="Flags" value="0"/>
+                  </obj>
+                  <obj class="Ymarker" ID="329938952">
+                     <float name="Y-Pos" value="65"/>
+                     <int name="Flags" value="0"/>
+                  </obj>
+               </list>
+               <obj name="Xmarker" ID="341476456"/>
+               <obj name="Last XMarker" ID="341476736"/>
+            </obj>
+            <obj class="GrandStaff" ID="340334088">
+               <int name="Position" value="5760"/>
+               <int name="Tix" value="2880"/>
+               <float name="Y-Pos" value="0"/>
+               <float name="X-Off" value="0"/>
+               <int name="Flags" value="0"/>
+               <int name="Bars" value="4"/>
+               <int name="ownership" value="1"/>
+               <list name="obj" type="obj">
+                  <obj class="Ymarker" ID="329938552">
+                     <float name="Y-Pos" value="65"/>
+                     <int name="Flags" value="0"/>
+                  </obj>
+                  <obj class="Ymarker" ID="329938712">
+                     <float name="Y-Pos" value="65"/>
+                     <int name="Flags" value="0"/>
+                  </obj>
+                  <obj class="Ymarker" ID="329938752">
+                     <float name="Y-Pos" value="65"/>
+                     <int name="Flags" value="0"/>
+                  </obj>
+               </list>
+               <obj name="Xmarker" ID="341476792"/>
+               <obj name="Last XMarker" ID="341476512"/>
+            </obj>
+            <obj class="GrandStaff" ID="340333288">
+               <int name="Position" value="8640"/>
+               <int name="Tix" value="2880"/>
+               <float name="Y-Pos" value="0"/>
+               <float name="X-Off" value="0"/>
+               <int name="Flags" value="0"/>
+               <int name="Bars" value="4"/>
+               <int name="ownership" value="1"/>
+               <list name="obj" type="obj">
+                  <obj class="Ymarker" ID="329939232">
+                     <float name="Y-Pos" value="65"/>
+                     <int name="Flags" value="0"/>
+                  </obj>
+                  <obj class="Ymarker" ID="329938232">
+                     <float name="Y-Pos" value="65"/>
+                     <int name="Flags" value="0"/>
+                  </obj>
+                  <obj class="Ymarker" ID="329938992">
+                     <float name="Y-Pos" value="65"/>
+                     <int name="Flags" value="0"/>
+                  </obj>
+               </list>
+               <obj name="Xmarker" ID="341475616"/>
+               <obj name="Last XMarker" ID="341475672"/>
+            </obj>
+            <obj class="GrandStaff" ID="340333128">
+               <int name="Position" value="11520"/>
+               <int name="Tix" value="2880"/>
+               <float name="Y-Pos" value="65"/>
+               <float name="X-Off" value="0"/>
+               <int name="Flags" value="1"/>
+               <int name="Bars" value="4"/>
+               <int name="ownership" value="1"/>
+               <list name="obj" type="obj">
+                  <obj class="Ymarker" ID="329938592">
+                     <float name="Y-Pos" value="65"/>
+                     <int name="Flags" value="0"/>
+                  </obj>
+                  <obj class="Ymarker" ID="329938832">
+                     <float name="Y-Pos" value="65"/>
+                     <int name="Flags" value="0"/>
+                  </obj>
+                  <obj class="Ymarker" ID="329938632">
+                     <float name="Y-Pos" value="65"/>
+                     <int name="Flags" value="0"/>
+                  </obj>
+               </list>
+               <obj name="Xmarker" ID="341476568"/>
+               <obj name="Last XMarker" ID="341477240"/>
+            </obj>
+            <obj class="GrandStaff" ID="340333368">
+               <int name="Position" value="14400"/>
+               <int name="Tix" value="2880"/>
+               <float name="Y-Pos" value="0"/>
+               <float name="X-Off" value="0"/>
+               <int name="Flags" value="0"/>
+               <int name="Bars" value="4"/>
+               <int name="ownership" value="1"/>
+               <list name="obj" type="obj">
+                  <obj class="Ymarker" ID="329938272">
+                     <float name="Y-Pos" value="65"/>
+                     <int name="Flags" value="0"/>
+                  </obj>
+                  <obj class="Ymarker" ID="329939032">
+                     <float name="Y-Pos" value="65"/>
+                     <int name="Flags" value="0"/>
+                  </obj>
+                  <obj class="Ymarker" ID="329938672">
+                     <float name="Y-Pos" value="65"/>
+                     <int name="Flags" value="0"/>
+                  </obj>
+               </list>
+               <obj name="Xmarker" ID="341476960"/>
+               <obj name="Last XMarker" ID="341476064"/>
+            </obj>
+            <obj class="GrandStaff" ID="340332808">
+               <int name="Position" value="17280"/>
+               <int name="Tix" value="2880"/>
+               <float name="Y-Pos" value="0"/>
+               <float name="X-Off" value="0"/>
+               <int name="Flags" value="0"/>
+               <int name="Bars" value="4"/>
+               <int name="ownership" value="1"/>
+               <list name="obj" type="obj">
+                  <obj class="Ymarker" ID="329938512">
+                     <float name="Y-Pos" value="65"/>
+                     <int name="Flags" value="0"/>
+                  </obj>
+                  <obj class="Ymarker" ID="329939192">
+                     <float name="Y-Pos" value="65"/>
+                     <int name="Flags" value="0"/>
+                  </obj>
+                  <obj class="Ymarker" ID="329938792">
+                     <float name="Y-Pos" value="65"/>
+                     <int name="Flags" value="0"/>
+                  </obj>
+               </list>
+               <obj name="Xmarker" ID="341475784"/>
+               <obj name="Last XMarker" ID="341476120"/>
+            </obj>
+            <obj class="GrandStaff" ID="340333448">
+               <int name="Position" value="20160"/>
+               <int name="Tix" value="2880"/>
+               <float name="Y-Pos" value="0"/>
+               <float name="X-Off" value="0"/>
+               <int name="Flags" value="0"/>
+               <int name="Bars" value="4"/>
+               <int name="ownership" value="1"/>
+               <list name="obj" type="obj">
+                  <obj class="Ymarker" ID="329938312">
+                     <float name="Y-Pos" value="65"/>
+                     <int name="Flags" value="0"/>
+                  </obj>
+                  <obj class="Ymarker" ID="329939272">
+                     <float name="Y-Pos" value="65"/>
+                     <int name="Flags" value="0"/>
+                  </obj>
+                  <obj class="Ymarker" ID="329938872">
+                     <float name="Y-Pos" value="65"/>
+                     <int name="Flags" value="0"/>
+                  </obj>
+               </list>
+               <obj name="Xmarker" ID="341476176"/>
+               <obj name="Last XMarker" ID="341477968"/>
+            </obj>
+            <obj class="GrandStaff" ID="340332888">
+               <int name="Position" value="23040"/>
+               <int name="Tix" value="720"/>
+               <float name="Y-Pos" value="65"/>
+               <float name="X-Off" value="0"/>
+               <int name="Flags" value="1"/>
+               <int name="Bars" value="1"/>
+               <int name="ownership" value="1"/>
+               <list name="obj" type="obj">
+                  <obj class="Ymarker" ID="327027120">
+                     <float name="Y-Pos" value="65"/>
+                     <int name="Flags" value="0"/>
+                  </obj>
+                  <obj class="Ymarker" ID="326996560">
+                     <float name="Y-Pos" value="65"/>
+                     <int name="Flags" value="0"/>
+                  </obj>
+                  <obj class="Ymarker" ID="326998280">
+                     <float name="Y-Pos" value="65"/>
+                     <int name="Flags" value="0"/>
+                  </obj>
+               </list>
+               <obj name="Xmarker" ID="326951448"/>
+               <obj name="Last XMarker" ID="326951448"/>
+            </obj>
+         </list>
+      </member>
+      <obj class="Xmarker" name="last X" ID="341475280">
+         <int name="Position" value="23760"/>
+         <int name="Tix" value="0"/>
+         <int name="Bar Nr" value="33"/>
+         <float name="X-Pos" value="0"/>
+         <float name="Bar width" value="0"/>
+         <int name="Flags" value="0"/>
+      </obj>
+   </obj>
+   <obj class="ScLayoutForm" name="Form" ID="329743248">
+      <member name="Domain">
+         <int name="Type" value="0"/>
+      </member>
+   </obj>
+   <int name="ownership" value="2"/>
+   <list name="obj" type="obj">
+      <obj class="ScTrackID" ID="329294384">
+         <int name="Track ID" value="1"/>
+      </obj>
+      <obj class="ScTrackID" ID="329294408">
+         <int name="Track ID" value="2"/>
+      </obj>
+      <obj class="ScTrackID" ID="329294504">
+         <int name="Track ID" value="3"/>
+      </obj>
+   </list>
+</ScoreLayout>
