@@ -6,7 +6,7 @@
 	<identification>
 		<encoding>
 			<software>Cubase, Version 5.1.0, Build 105</software>
-			<encoding-date>2025-11-04</encoding-date>
+			<encoding-date>2025-11-21</encoding-date>
 		</encoding>
 	</identification>
 	<defaults>
@@ -26,11 +26,14 @@
 		</page-layout>
 	</defaults>
 	<part-list>
+		<part-group type="start" number="2">
+			<group-symbol>bracket</group-symbol>
+		</part-group>
 		<score-part id="P1">
-			<part-name></part-name>
+			<part-name>Violin       </part-name>
 			<part-abbreviation></part-abbreviation>
 			<score-instrument id="P1-I-1">
-				<instrument-name></instrument-name>
+				<instrument-name>Violin       </instrument-name>
 			</score-instrument>
 			<midi-instrument id="P1-I-1">
 				<midi-channel>2</midi-channel>
@@ -38,10 +41,10 @@
 			</midi-instrument>
 		</score-part>
 		<score-part id="P2">
-			<part-name></part-name>
+			<part-name>Viola       </part-name>
 			<part-abbreviation></part-abbreviation>
 			<score-instrument id="P2-I-1">
-				<instrument-name></instrument-name>
+				<instrument-name>Viola       </instrument-name>
 			</score-instrument>
 			<midi-instrument id="P2-I-1">
 				<midi-channel>1</midi-channel>
@@ -49,10 +52,10 @@
 			</midi-instrument>
 		</score-part>
 		<score-part id="P3">
-			<part-name></part-name>
+			<part-name>Cello       </part-name>
 			<part-abbreviation></part-abbreviation>
 			<score-instrument id="P3-I-1">
-				<instrument-name></instrument-name>
+				<instrument-name>Cello       </instrument-name>
 			</score-instrument>
 			<midi-instrument id="P3-I-1">
 				<midi-channel>0</midi-channel>
@@ -60,16 +63,17 @@
 			</midi-instrument>
 		</score-part>
 		<score-part id="P4">
-			<part-name></part-name>
+			<part-name>Double Bass</part-name>
 			<part-abbreviation></part-abbreviation>
 			<score-instrument id="P4-I-1">
-				<instrument-name></instrument-name>
+				<instrument-name>Double Bass</instrument-name>
 			</score-instrument>
 			<midi-instrument id="P4-I-1">
 				<midi-channel>0</midi-channel>
 				<midi-program>0</midi-program>
 			</midi-instrument>
 		</score-part>
+		<part-group type="stop" number="2"></part-group>
 	</part-list>
 	<part id="P1">
 		<!--===============================-->
@@ -77,10 +81,10 @@
 			<print>
 				<system-layout>
 					<system-margins>
-						<left-margin>20</left-margin>
+						<left-margin>123</left-margin>
 						<right-margin>3</right-margin>
 					</system-margins>
-					<top-system-distance>108</top-system-distance>
+					<top-system-distance>96</top-system-distance>
 				</system-layout>
 			</print>
 			<attributes>
@@ -97,6 +101,12 @@
 					<line>2</line>
 				</clef>
 			</attributes>
+			<direction placement="above">
+				<direction-type>
+					<words default-y="59" relative-x="199" font-style="normal" font-size="18" font-weight="normal">BWV 988, variation 19th</words>
+				</direction-type>
+				<staff>1</staff>
+			</direction>
 			<note>
 				<pitch>
 					<step>D</step>
@@ -225,7 +235,7 @@
 						<left-margin>20</left-margin>
 						<right-margin>3</right-margin>
 					</system-margins>
-					<system-distance>68</system-distance>
+					<system-distance>58</system-distance>
 				</system-layout>
 			</print>
 			<attributes></attributes>
@@ -560,7 +570,7 @@
 						<left-margin>20</left-margin>
 						<right-margin>3</right-margin>
 					</system-margins>
-					<system-distance>68</system-distance>
+					<system-distance>58</system-distance>
 				</system-layout>
 			</print>
 			<attributes></attributes>
@@ -717,25 +727,16 @@
 		</measure>
 		<!--===============================-->
 		<measure number="14">
-			<print new-page="yes">
+			<print new-system="yes">
 				<system-layout>
 					<system-margins>
 						<left-margin>20</left-margin>
 						<right-margin>3</right-margin>
 					</system-margins>
-					<top-system-distance>108</top-system-distance>
+					<system-distance>58</system-distance>
 				</system-layout>
 			</print>
-			<attributes>
-				<divisions>480</divisions>
-				<key>
-					<fifths>1</fifths>
-				</key>
-				<clef number="1">
-					<sign>G</sign>
-					<line>2</line>
-				</clef>
-			</attributes>
+			<attributes></attributes>
 			<note>
 				<pitch>
 					<step>E</step>
@@ -937,16 +938,25 @@
 		</measure>
 		<!--===============================-->
 		<measure number="18">
-			<print new-system="yes">
+			<print new-page="yes">
 				<system-layout>
 					<system-margins>
 						<left-margin>20</left-margin>
 						<right-margin>3</right-margin>
 					</system-margins>
-					<system-distance>68</system-distance>
+					<top-system-distance>108</top-system-distance>
 				</system-layout>
 			</print>
-			<attributes></attributes>
+			<attributes>
+				<divisions>480</divisions>
+				<key>
+					<fifths>1</fifths>
+				</key>
+				<clef number="1">
+					<sign>G</sign>
+					<line>2</line>
+				</clef>
+			</attributes>
 			<barline location="left">
 				<bar-style>heavy-light</bar-style>
 				<repeat direction="forward" />
@@ -1292,7 +1302,7 @@
 						<left-margin>20</left-margin>
 						<right-margin>3</right-margin>
 					</system-margins>
-					<system-distance>68</system-distance>
+					<system-distance>58</system-distance>
 				</system-layout>
 			</print>
 			<attributes></attributes>
@@ -1424,25 +1434,16 @@
 		</measure>
 		<!--===============================-->
 		<measure number="26">
-			<print new-page="yes">
+			<print new-system="yes">
 				<system-layout>
 					<system-margins>
 						<left-margin>20</left-margin>
 						<right-margin>3</right-margin>
 					</system-margins>
-					<top-system-distance>108</top-system-distance>
+					<system-distance>58</system-distance>
 				</system-layout>
 			</print>
-			<attributes>
-				<divisions>480</divisions>
-				<key>
-					<fifths>1</fifths>
-				</key>
-				<clef number="1">
-					<sign>G</sign>
-					<line>2</line>
-				</clef>
-			</attributes>
+			<attributes></attributes>
 			<note>
 				<rest />
 				<duration>240</duration>
@@ -1662,7 +1663,7 @@
 						<left-margin>20</left-margin>
 						<right-margin>3</right-margin>
 					</system-margins>
-					<system-distance>68</system-distance>
+					<system-distance>58</system-distance>
 				</system-layout>
 			</print>
 			<attributes></attributes>
@@ -2002,7 +2003,7 @@
 		<measure number="2">
 			<print>
 				<staff-layout>
-					<staff-distance>68</staff-distance>
+					<staff-distance>55</staff-distance>
 				</staff-layout>
 			</print>
 			<attributes>
@@ -2351,7 +2352,7 @@
 		<measure number="6">
 			<print new-system="yes">
 				<staff-layout>
-					<staff-distance>68</staff-distance>
+					<staff-distance>55</staff-distance>
 				</staff-layout>
 			</print>
 			<attributes></attributes>
@@ -2484,7 +2485,7 @@
 		<measure number="10">
 			<print new-system="yes">
 				<staff-layout>
-					<staff-distance>68</staff-distance>
+					<staff-distance>55</staff-distance>
 				</staff-layout>
 			</print>
 			<attributes></attributes>
@@ -2609,21 +2610,12 @@
 		</measure>
 		<!--===============================-->
 		<measure number="14">
-			<print new-page="yes">
+			<print new-system="yes">
 				<staff-layout>
-					<staff-distance>68</staff-distance>
+					<staff-distance>55</staff-distance>
 				</staff-layout>
 			</print>
-			<attributes>
-				<divisions>480</divisions>
-				<key>
-					<fifths>1</fifths>
-				</key>
-				<clef number="1">
-					<sign>G</sign>
-					<line>2</line>
-				</clef>
-			</attributes>
+			<attributes></attributes>
 			<note>
 				<pitch>
 					<step>F</step>
@@ -2745,6 +2737,7 @@
 				<type>eighth</type>
 				<stem>up</stem>
 				<staff>1</staff>
+				<beam number="1">begin</beam>
 				<notations>
 					<tied type="stop" />
 				</notations>
@@ -2755,10 +2748,18 @@
 					<alter>1</alter>
 					<octave>4</octave>
 				</pitch>
-				<duration>480</duration>
+				<duration>240</duration>
 				<voice>1</voice>
-				<type>quarter</type>
+				<type>eighth</type>
 				<stem>up</stem>
+				<staff>1</staff>
+				<beam number="1">end</beam>
+			</note>
+			<note>
+				<rest />
+				<duration>240</duration>
+				<voice>1</voice>
+				<type>eighth</type>
 				<staff>1</staff>
 			</note>
 			<barline location="right">
@@ -2768,12 +2769,21 @@
 		</measure>
 		<!--===============================-->
 		<measure number="18">
-			<print new-system="yes">
+			<print new-page="yes">
 				<staff-layout>
-					<staff-distance>68</staff-distance>
+					<staff-distance>58</staff-distance>
 				</staff-layout>
 			</print>
-			<attributes></attributes>
+			<attributes>
+				<divisions>480</divisions>
+				<key>
+					<fifths>1</fifths>
+				</key>
+				<clef number="1">
+					<sign>G</sign>
+					<line>2</line>
+				</clef>
+			</attributes>
 			<barline location="left">
 				<bar-style>heavy-light</bar-style>
 				<repeat direction="forward" />
@@ -2921,7 +2931,7 @@
 		<measure number="22">
 			<print new-system="yes">
 				<staff-layout>
-					<staff-distance>68</staff-distance>
+					<staff-distance>58</staff-distance>
 				</staff-layout>
 			</print>
 			<attributes></attributes>
@@ -3251,21 +3261,12 @@
 		</measure>
 		<!--===============================-->
 		<measure number="26">
-			<print new-page="yes">
+			<print new-system="yes">
 				<staff-layout>
-					<staff-distance>68</staff-distance>
+					<staff-distance>58</staff-distance>
 				</staff-layout>
 			</print>
-			<attributes>
-				<divisions>480</divisions>
-				<key>
-					<fifths>1</fifths>
-				</key>
-				<clef number="1">
-					<sign>G</sign>
-					<line>2</line>
-				</clef>
-			</attributes>
+			<attributes></attributes>
 			<note>
 				<pitch>
 					<step>E</step>
@@ -3377,15 +3378,26 @@
 				<type>whole</type>
 				<staff>1</staff>
 			</note>
+			<attributes>
+				<clef number="1">
+					<sign>F</sign>
+					<line>4</line>
+				</clef>
+			</attributes>
 		</measure>
 		<!--===============================-->
 		<measure number="30">
 			<print new-system="yes">
 				<staff-layout>
-					<staff-distance>68</staff-distance>
+					<staff-distance>58</staff-distance>
 				</staff-layout>
 			</print>
-			<attributes></attributes>
+			<attributes>
+				<clef number="1">
+					<sign>F</sign>
+					<line>4</line>
+				</clef>
+			</attributes>
 			<note>
 				<pitch>
 					<step>G</step>
@@ -3394,7 +3406,7 @@
 				<duration>240</duration>
 				<voice>1</voice>
 				<type>eighth</type>
-				<stem>up</stem>
+				<stem>down</stem>
 				<staff>1</staff>
 			</note>
 			<note>
@@ -3406,7 +3418,7 @@
 				<tie type="start" />
 				<voice>1</voice>
 				<type>quarter</type>
-				<stem>up</stem>
+				<stem>down</stem>
 				<staff>1</staff>
 				<notations>
 					<tied type="start" />
@@ -3424,7 +3436,7 @@
 				<tie type="stop" />
 				<voice>1</voice>
 				<type>eighth</type>
-				<stem>up</stem>
+				<stem>down</stem>
 				<staff>1</staff>
 				<beam number="1">begin</beam>
 				<notations>
@@ -3439,7 +3451,7 @@
 				<duration>240</duration>
 				<voice>1</voice>
 				<type>eighth</type>
-				<stem>up</stem>
+				<stem>down</stem>
 				<staff>1</staff>
 				<beam number="1">continue</beam>
 			</note>
@@ -3452,7 +3464,7 @@
 				<tie type="start" />
 				<voice>1</voice>
 				<type>eighth</type>
-				<stem>up</stem>
+				<stem>down</stem>
 				<staff>1</staff>
 				<beam number="1">end</beam>
 				<notations>
@@ -3471,7 +3483,7 @@
 				<tie type="stop" />
 				<voice>1</voice>
 				<type>eighth</type>
-				<stem>up</stem>
+				<stem>down</stem>
 				<staff>1</staff>
 				<beam number="1">begin</beam>
 				<notations>
@@ -3486,7 +3498,7 @@
 				<duration>240</duration>
 				<voice>1</voice>
 				<type>eighth</type>
-				<stem>up</stem>
+				<stem>down</stem>
 				<staff>1</staff>
 				<beam number="1">continue</beam>
 			</note>
@@ -3499,7 +3511,7 @@
 				<tie type="start" />
 				<voice>1</voice>
 				<type>eighth</type>
-				<stem>up</stem>
+				<stem>down</stem>
 				<staff>1</staff>
 				<beam number="1">end</beam>
 				<notations>
@@ -3518,7 +3530,7 @@
 				<tie type="stop" />
 				<voice>1</voice>
 				<type>eighth</type>
-				<stem>up</stem>
+				<stem>down</stem>
 				<staff>1</staff>
 				<notations>
 					<tied type="stop" />
@@ -3532,7 +3544,7 @@
 				<duration>480</duration>
 				<voice>1</voice>
 				<type>quarter</type>
-				<stem>up</stem>
+				<stem>down</stem>
 				<staff>1</staff>
 			</note>
 			<barline location="right">
@@ -3546,7 +3558,7 @@
 		<measure number="2">
 			<print>
 				<staff-layout>
-					<staff-distance>68</staff-distance>
+					<staff-distance>55</staff-distance>
 				</staff-layout>
 			</print>
 			<attributes>
@@ -3724,7 +3736,7 @@
 		<measure number="6">
 			<print new-system="yes">
 				<staff-layout>
-					<staff-distance>68</staff-distance>
+					<staff-distance>55</staff-distance>
 				</staff-layout>
 			</print>
 			<attributes></attributes>
@@ -3942,7 +3954,7 @@
 		<measure number="10">
 			<print new-system="yes">
 				<staff-layout>
-					<staff-distance>68</staff-distance>
+					<staff-distance>55</staff-distance>
 				</staff-layout>
 			</print>
 			<attributes></attributes>
@@ -4276,21 +4288,12 @@
 		</measure>
 		<!--===============================-->
 		<measure number="14">
-			<print new-page="yes">
+			<print new-system="yes">
 				<staff-layout>
-					<staff-distance>68</staff-distance>
+					<staff-distance>55</staff-distance>
 				</staff-layout>
 			</print>
-			<attributes>
-				<divisions>480</divisions>
-				<key>
-					<fifths>1</fifths>
-				</key>
-				<clef number="1">
-					<sign>F</sign>
-					<line>4</line>
-				</clef>
-			</attributes>
+			<attributes></attributes>
 			<note>
 				<pitch>
 					<step>A</step>
@@ -4582,12 +4585,21 @@
 		</measure>
 		<!--===============================-->
 		<measure number="18">
-			<print new-system="yes">
+			<print new-page="yes">
 				<staff-layout>
-					<staff-distance>68</staff-distance>
+					<staff-distance>58</staff-distance>
 				</staff-layout>
 			</print>
-			<attributes></attributes>
+			<attributes>
+				<divisions>480</divisions>
+				<key>
+					<fifths>1</fifths>
+				</key>
+				<clef number="1">
+					<sign>F</sign>
+					<line>4</line>
+				</clef>
+			</attributes>
 			<barline location="left">
 				<bar-style>heavy-light</bar-style>
 				<repeat direction="forward" />
@@ -4779,7 +4791,7 @@
 		<measure number="22">
 			<print new-system="yes">
 				<staff-layout>
-					<staff-distance>68</staff-distance>
+					<staff-distance>58</staff-distance>
 				</staff-layout>
 			</print>
 			<attributes></attributes>
@@ -4968,21 +4980,12 @@
 		</measure>
 		<!--===============================-->
 		<measure number="26">
-			<print new-page="yes">
+			<print new-system="yes">
 				<staff-layout>
-					<staff-distance>68</staff-distance>
+					<staff-distance>58</staff-distance>
 				</staff-layout>
 			</print>
-			<attributes>
-				<divisions>480</divisions>
-				<key>
-					<fifths>1</fifths>
-				</key>
-				<clef number="1">
-					<sign>F</sign>
-					<line>4</line>
-				</clef>
-			</attributes>
+			<attributes></attributes>
 			<note>
 				<pitch>
 					<step>C</step>
@@ -5313,7 +5316,7 @@
 		<measure number="30">
 			<print new-system="yes">
 				<staff-layout>
-					<staff-distance>68</staff-distance>
+					<staff-distance>58</staff-distance>
 				</staff-layout>
 			</print>
 			<attributes></attributes>
@@ -5457,7 +5460,7 @@
 		<measure number="2">
 			<print>
 				<staff-layout>
-					<staff-distance>68</staff-distance>
+					<staff-distance>55</staff-distance>
 				</staff-layout>
 			</print>
 			<attributes>
@@ -5538,7 +5541,7 @@
 		<measure number="6">
 			<print new-system="yes">
 				<staff-layout>
-					<staff-distance>68</staff-distance>
+					<staff-distance>55</staff-distance>
 				</staff-layout>
 			</print>
 			<attributes></attributes>
@@ -5614,7 +5617,7 @@
 		<measure number="10">
 			<print new-system="yes">
 				<staff-layout>
-					<staff-distance>68</staff-distance>
+					<staff-distance>55</staff-distance>
 				</staff-layout>
 			</print>
 			<attributes></attributes>
@@ -5720,22 +5723,12 @@
 		</measure>
 		<!--===============================-->
 		<measure number="14">
-			<print new-page="yes">
+			<print new-system="yes">
 				<staff-layout>
-					<staff-distance>68</staff-distance>
+					<staff-distance>55</staff-distance>
 				</staff-layout>
 			</print>
-			<attributes>
-				<divisions>480</divisions>
-				<key>
-					<fifths>1</fifths>
-				</key>
-				<clef number="1">
-					<sign>F</sign>
-					<line>4</line>
-					<clef-octave-change>-1</clef-octave-change>
-				</clef>
-			</attributes>
+			<attributes></attributes>
 			<note>
 				<pitch>
 					<step>D</step>
@@ -5831,12 +5824,22 @@
 		</measure>
 		<!--===============================-->
 		<measure number="18">
-			<print new-system="yes">
+			<print new-page="yes">
 				<staff-layout>
-					<staff-distance>68</staff-distance>
+					<staff-distance>58</staff-distance>
 				</staff-layout>
 			</print>
-			<attributes></attributes>
+			<attributes>
+				<divisions>480</divisions>
+				<key>
+					<fifths>1</fifths>
+				</key>
+				<clef number="1">
+					<sign>F</sign>
+					<line>4</line>
+					<clef-octave-change>-1</clef-octave-change>
+				</clef>
+			</attributes>
 			<barline location="left">
 				<bar-style>heavy-light</bar-style>
 				<repeat direction="forward" />
@@ -5903,7 +5906,7 @@
 		<measure number="22">
 			<print new-system="yes">
 				<staff-layout>
-					<staff-distance>68</staff-distance>
+					<staff-distance>58</staff-distance>
 				</staff-layout>
 			</print>
 			<attributes></attributes>
@@ -5991,22 +5994,12 @@
 		</measure>
 		<!--===============================-->
 		<measure number="26">
-			<print new-page="yes">
+			<print new-system="yes">
 				<staff-layout>
-					<staff-distance>68</staff-distance>
+					<staff-distance>58</staff-distance>
 				</staff-layout>
 			</print>
-			<attributes>
-				<divisions>480</divisions>
-				<key>
-					<fifths>1</fifths>
-				</key>
-				<clef number="1">
-					<sign>F</sign>
-					<line>4</line>
-					<clef-octave-change>-1</clef-octave-change>
-				</clef>
-			</attributes>
+			<attributes></attributes>
 			<note>
 				<pitch>
 					<step>C</step>
@@ -6069,7 +6062,7 @@
 		<measure number="30">
 			<print new-system="yes">
 				<staff-layout>
-					<staff-distance>68</staff-distance>
+					<staff-distance>58</staff-distance>
 				</staff-layout>
 			</print>
 			<attributes></attributes>
