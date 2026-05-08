@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScoreLayout>
+   <member name="Voice 1">
+      <string name="Name (long)" value=""/>
+      <string name="Name (short)" value=""/>
+      <member name="Polyphonic">
+         <int name="Channel 1" value="0"/>
+         <int name="Attributes Chan 1" value="-94"/>
+         <int name="Channel 2" value="1"/>
+         <int name="Attributes Chan 2" value="32"/>
+         <int name="Channel 3" value="-1"/>
+         <int name="Attributes Chan 3" value="0"/>
+         <int name="Channel 4" value="-1"/>
+         <int name="Attributes Chan 4" value="0"/>
+         <int name="Channel 5" value="2"/>
+         <int name="Attributes Chan 5" value="-94"/>
+         <int name="Channel 6" value="3"/>
+         <int name="Attributes Chan 6" value="32"/>
+         <int name="Channel 7" value="-1"/>
+         <int name="Attributes Chan 7" value="0"/>
+         <int name="Channel 8" value="-1"/>
+         <int name="Attributes Chan 8" value="0"/>
+         <int name="On" value="0"/>
+         <int name="Optimize" value="3"/>
+         <int name="Splitnote" value="0"/>
+      </member>
+      <member name="KeyClef">
+         <int name="Upper Key" value="-32757"/>
+         <int name="Lower Key" value="11"/>
+         <int name="Upper Clef" value="1"/>
+         <int name="Lower Clef" value="1"/>
+         <int name="Flags" value="0"/>
+      </member>
+      <member name="Quantize">
+         <int name="PPQ" value="480"/>
+         <int name="Notes" value="120"/>
+         <int name="Rests" value="480"/>
+         <int name="Flags" value="81935"/>
+      </member>
+      <member name="Drum">
+         <int name="Single Lower Pitch" value="60"/>
+         <int name="Single Upper Pitch" value="72"/>
+         <int name="Flags" value="4"/>
+         <int name="Fixed Up" value="-12"/>
+         <int name="Fixed Down" value="42"/>
+      </member>
+      <member name="Instrument">
+         <int name="Instrument" value="14"/>
+         <int name="Transpose" value="12"/>
+         <int name="Flags" value="0"/>
+         <bin name="Strings">
+				403B37322D28000000000000
+         </bin>
+      </member>
+      <member name="Sizes">
+         <int name="System" value="100"/>
+         <int name="Num Lines" value="5"/>
+         <int name="Linespace" value="3"/>
+      </member>
+      <member name="Limits">
+         <int name="lowLimit" value="0"/>
+         <int name="highLimit" value="127"/>
+      </member>
+      <member name="Capo">
+         <int name="capo" value="0"/>
+      </member>
+   </member>
+   <member name="Name">
+      <string name="s" value="bass" wide="true"/>
+   </member>
+   <member name="Bracemask">
+      <int name="Mask 0" value="0"/>
+      <int name="Mask 1" value="0"/>
+      <int name="Mask 2" value="0"/>
+      <int name="Mask 3" value="0"/>
+   </member>
+   <member name="Beziermask">
+      <int name="Mask 0" value="0"/>
+      <int name="Mask 1" value="0"/>
+      <int name="Mask 2" value="0"/>
+      <int name="Mask 3" value="0"/>
+   </member>
+   <member name="Insertmask">
+      <int name="Mask 0" value="-1"/>
+      <int name="Mask 1" value="-1"/>
+      <int name="Mask 2" value="-1"/>
+      <int name="Mask 3" value="-1"/>
+   </member>
+   <member name="Sysnamemask">
+      <int name="Mask 0" value="-1"/>
+      <int name="Mask 1" value="-1"/>
+      <int name="Mask 2" value="-1"/>
+      <int name="Mask 3" value="-1"/>
+   </member>
+   <member name="Timesignmask">
+      <int name="Mask 0" value="0"/>
+      <int name="Mask 1" value="0"/>
+      <int name="Mask 2" value="0"/>
+      <int name="Mask 3" value="0"/>
+   </member>
+   <member name="Transposemask">
+      <int name="Mask 0" value="-1"/>
+      <int name="Mask 1" value="-1"/>
+      <int name="Mask 2" value="-1"/>
+      <int name="Mask 3" value="-1"/>
+   </member>
+   <int name="BraceShift" value="0"/>
+   <int name="BezierShift" value="-80"/>
+   <int name="SapceVar" value="0"/>
+   <int name="NameVar" value="1"/>
+   <int name="MultiRests" value="0"/>
+   <int name="Page Size" value="100"/>
+   <int name="Flags" value="16"/>
+   <obj class="LayoutMarkerTree" name="Print" ID="318089448">
+      <float name="PaperW" value="32767"/>
+      <obj class="CmIDLinkedList" name="XList" ID="286507128">
+         <int name="ownership" value="1"/>
+      </obj>
+      <member name="GrandStaff">
+         <int name="ownership" value="1"/>
+      </member>
+      <obj class="Xmarker" name="last X" ID="318089504">
+         <int name="Position" value="0"/>
+         <int name="Tix" value="0"/>
+         <int name="Bar Nr" value="0"/>
+         <float name="X-Pos" value="0"/>
+         <float name="Bar width" value="0"/>
+         <int name="Flags" value="0"/>
+      </obj>
+   </obj>
+   <obj class="ScLayoutForm" name="Form" ID="287444128">
+      <member name="Domain">
+         <int name="Type" value="0"/>
+      </member>
+   </obj>
+   <int name="ownership" value="2"/>
+   <list name="obj" type="obj">
+      <obj class="ScTrackID" ID="319192296">
+         <int name="Track ID" value="2"/>
+      </obj>
+   </list>
+</ScoreLayout>
